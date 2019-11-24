@@ -10,5 +10,7 @@ comments: false
 
 
 * [Grappling]
+* [BJJ(nogi)]
+
 
 
