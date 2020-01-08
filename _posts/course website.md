@@ -3,7 +3,7 @@ layout: posts
 title: course website
 ---
 
-# in the name of god 
+* in the name of god 
 
 I had deleted the galary so i put the amage here
 
